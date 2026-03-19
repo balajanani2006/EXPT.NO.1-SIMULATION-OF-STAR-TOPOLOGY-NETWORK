@@ -21,18 +21,17 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 
 
 # IP CONNECTIVITY TABLE
-
-
+<img width="979" height="228" alt="image" src="https://github.com/user-attachments/assets/051001ec-2e44-41aa-af2e-3d5deea4a3a1" />
 
 # NETWORK DIAGRAM
-
-
-
+<img width="1280" height="717" alt="image" src="https://github.com/user-attachments/assets/6bfc4c9e-a9c3-4bfd-bf0e-dd9be525c122" />
 
 # OUTPUT
 
+<img width="661" height="546" alt="image" src="https://github.com/user-attachments/assets/3755521f-31fd-4ab1-94d8-cdc29fb11106" />
 
 # RESULT
+Thus the computers in same network are able to communicate with each other and the communication between them were
+verified.
 
-Thus the computers in same network are able to communicate with each other and the communication between them were verified.
 
